@@ -30,7 +30,17 @@
 27. **Şifrəsi 8 simvoldan uzun olan tələbələri tapın.**
 28. **İd-si 5-dən kiçik olan müəllimlərin adlarını çapa verin.**
 29. **Yaşları 25-dən yuxarı olan tələbələrin adlarını və ballarını çapa verin.**
-30. **Tələbələrin hobbiləri arasında "sports" olanların sayını hesablayın.**
+30. **Tələbələrin hobbiləri arasında "sports" olanların sayını hesablayın.**Bütün
+31. **tələbələrin təqaüdlərini dollarla göstərib azalan sıralama ilə çapa verin (1 AZN = 1.7 USD)**
+32. **Bütün tələbələrin təqaüdlərini dollarla göstərməklə yanaşı, onların ballarına uyğun azalan sıra ilə sıralayıb çapa verin**
+33. **Şifrəsində rəqəm və böyük hərf olmayan tələbələri tapın**
+34. **Bütün tələbələrin hobbiləri olan array yaradın və hobbiləri artan sırada çap edin**
+35. **Əgər hobbi siyahısında "Sports" varsa, Tələbənin adını yanına "İdmançı" sözünü qeyd edin.**
+36. **Tələbələrin adlarını, username və şifrələrindən ibarət yeni array yaradın, şifrələrini şifrələyin. Şifrənin ilk və son simvolu görünməlidir, qalan simvollar isə "\*"-lə əvəz olunmalıdır.**
+37. **Özünüz bəzi studentlərin müəllimlərindən Süleyman müəllimi çıxarın.Müəllimi Süleyman olan tələbələrin avg balını azalan sıra ilə düzün**
+38. **Şifrəsində rəqəm və böyük hərf olmayan tələbələri tapın.Şifrəsində həm böyük hərf, həm də rəqəm olmayan tələbələri ayrıca göstərin və "Təhlükəsiz şifrə deyil" yazdırın.**
+39. **Bütün tələbələrin cəmi bal ortalamasını tapın, amma balı 80-dən az olanları daxil etmədən. Əgər tələbənin balı 80-dən aşağıdırsa, onu ümumi hesablamaya daxil etməyin və adını ayrıca göstərin.**
+40. **"Gaming" həvəsi olan tələbələrin array-ini yaradın və onların ortalama yaşlarını hesablayın.Əgər ortalama yaş 22-dən yüksəkdirsə, tələbələrin avgpoint balını göstərin.**
 
 ## Qeyd
 

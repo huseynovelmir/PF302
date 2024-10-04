@@ -74,7 +74,7 @@ let students = [
     boyfriendGirlfriend: false,
     fail: false,
     avgPoint: 85,
-    salaryAZN: -0,
+    salaryAZN: 0,
   },
   {
     id: 5,
@@ -98,10 +98,5 @@ let students = [
   },
 ];
 
-
-studentsFilter = students.filter(
-  (student) => student.boyfriendGirlfriend === true
-);
-studentsFilter.forEach((student) => {
-  console.log(student.name + " " + student.github.username);
-});
+let stu = students.filter((student) => student.hobbies.includes("Gaming"));
+console.log(...stu.map((student) => student.name));
