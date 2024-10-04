@@ -1,6 +1,6 @@
 ## Tapşırıqlar
 
-1. **Boyfriend-i olan tələbələrin adlarını və username-lərini çapa verin.**
+1. **BF/GF-i olan tələbələrin adlarını və username-lərini çapa verin.**
 2. **Yaşı 20 olan tələbələrin adlarını və müəllim adlarını çapa verin.**
 3. **Bütün tələbələrə təqaüdlərinin dollar ilə görünməsini təmin edin.**
 4. **Müəllimlərin baş hərflərini böyük hərflə yazın.**
